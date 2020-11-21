@@ -1,0 +1,10 @@
+.nav-link {
+  text-align: center;
+}
+.navbar-brand > h1 {
+  font-size: calc(1.25rem + 1.4vw);
+  margin-bottom: -1px;
+}
+#page_heading{
+  margin: 15px 0;
+}
